@@ -1,0 +1,84 @@
+.div1
+{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+
+}
+.div1
+{
+    color: white;
+
+}
+.diva,.divb{
+    display:inline-block;
+    width:600px;
+
+}
+.divc,.divd{
+    display: inline-block;
+    width: 600px;
+}
+.i1,.i2,.i3,.i4,.i5,.i6
+{
+    height: 300px;
+}
+.b1,.b2,.b3,.b4,.b5,.b6{
+    width:90px;
+    background-color: aqua;
+}
+.dive,.divf{
+    display: inline-block;
+    width: 600px;
+}
+.i5,.y1{
+    display: inline-block;
+}
+.i6,.y2{
+    display: inline-block;
+}
+.sh1,.sh2,.sh3{
+    display:inline-block;
+    width:400px;
+}
+.sh4,.sh5,.sh6{
+    display:inline-block;
+    width:400px;
+
+}
+.p1,.p2,.p3,.p4,.p5,.p6{
+    width:90px;
+    background-color: aqua;
+}
+.ph4,.x1{
+    display: inline-block;
+}
+.ph5,.x2{
+    display: inline-block;
+}
+.ph6,.x3{
+    display: inline-block;
+}
+.div4{
+    padding: 12px;
+    width:100%;
+    height: 300px;
+    background-color:grey;
+    border-radius: 300px;
+    
+}
+.d41{
+
+    background-color:darkgray;
+    border-radius: 300px;
+}
+.d42,.d43{
+    width:300px;
+}
+.d44{
+    width: 850px;
+
+}
+.f1,.f2{
+    display: inline-block;
+}
